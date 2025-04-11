@@ -1,0 +1,3 @@
+[submodule "FinamPy"]
+	path = FinamPy
+	url = https://github.com/cia76/FinamPy.git
